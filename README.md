@@ -4,6 +4,8 @@ This work was completed in collaboration with **Vincent Gia Khanh** as part of t
 
 Can a simple classifier distinguish elliptic curves by rank using their Frobenius traces? This project explores that question with logistic regression and **murmurations**: plots of average traces grouped by rank. This project was inspired by Murmurations of Elliptic Curves and He, Lee, and Oliver’s Machine Learning Invariants of Arithmetic Curves, building on their exploration of rank-dependent patterns in Frobenius traces and logistic regression for elliptic curve rank prediction.
 
+📄 **[Full project writeup by Vincent Gia Khanh](Vincent_inspirit_final_paper.pdf)**
+
 ## Experiments
 
 - **Rank classification:** train logistic regression on 200 Frobenius-trace features with an 80/20 train/test split. The main conductor comparisons classify ranks 0 and 1; the notebook also includes an exploratory rank 0/1/2 model.
