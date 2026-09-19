@@ -1,7 +1,5 @@
 # Predicting Elliptic Curve Ranks
 
-*Finding arithmetic patterns, one Frobenius trace at a time.*
-
 A mentored research project in the **Inspirit AI+X program**, by **Vincent Gia Khanh** (credited as Nguyen Gia Khanh in the paper), mentored by **William DeGroot**.
 
 Can a simple classifier distinguish elliptic curves by rank using their Frobenius traces? This project explores that question with logistic regression and **murmurations**: plots of average traces grouped by rank.
